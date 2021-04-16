@@ -10,7 +10,7 @@ After copying this repo into a directory, cd into it and follow below:
     
     docker-compose down
     
-2. Use the following command to open up KadDrop
+2. Use the following command to open up KafDrop
     
     http://localhost:9000/
     
