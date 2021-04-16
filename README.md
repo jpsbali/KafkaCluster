@@ -1,3 +1,5 @@
+After copying this repo into a directory, cd into it and follow below:
+
 1. Use the following commands for docker
 
     docker-compose up -d  
