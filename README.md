@@ -26,3 +26,4 @@
     
     python  producer.py
    
+Reference - https://betterprogramming.pub/a-simple-apache-kafka-cluster-with-docker-kafdrop-and-python-cf45ab99e2b9
